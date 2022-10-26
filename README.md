@@ -1,2 +1,2 @@
 # Marble-Solitaire-Game
-Marble Solitaire Game (English, European, and Traingle Variations)
+Marble Solitaire Game (English, European, and Triangle Variations)
