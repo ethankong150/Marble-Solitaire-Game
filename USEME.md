@@ -1,4 +1,4 @@
-<font size = "20"> User Guide: </font>
+# User Guide:
 
  1. Navigate to the edit run configuration. 
  
