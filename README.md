@@ -1,6 +1,6 @@
 # Marble-Solitaire-Game
 
-Overview: 
+# Overview: 
 
 Marble Solitaire Game (English, European, and Triangle Variations)
 
